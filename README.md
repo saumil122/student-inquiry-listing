@@ -27,17 +27,17 @@ Just Install and Activate It
 **Answer:** For support, please contact at saumil.nagariya@gmail.com.
 ##
 
-**Q:** Where can I report bug?
+**Question:** Where can I report bug?
 
-**A:** For reporting related bugs, please contact at saumil.nagariya@gmail.com.
+**Answer:** For reporting related bugs, please contact at saumil.nagariya@gmail.com.
 ##
 
 ## Screenshots
-1. Inquiry List Table
-2. Add an inquiry
-3. Edit an inquiry
-4. Send an invite
-5. Inquiry form
+1. Inquiry List Table: ![](screenshot-1.png)
+2. Add an inquiry: ![](screenshot-2.png)
+3. Edit an inquiry: ![](screenshot-3.png)
+4. Send an invite: ![](screenshot-4.png)
+5. Inquiry form: ![](screenshot-5.png)
 
 ## Changelog
 ### 1.0

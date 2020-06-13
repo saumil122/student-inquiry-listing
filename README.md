@@ -1,4 +1,4 @@
-# student inquiry listing
+# Student inquiry listing
 Manage student inquiries regarding the course.
 
 # Description
@@ -19,10 +19,10 @@ No
 Yes
 
 3. Where can I get support?
-For support, please contact at saumil122@gmail.com.
+For support, please contact at saumil.nagariya@gmail.com.
 
 4. Where can I report bug?
-For reporting related bugs, please contact at saumil122@gmail.com.
+For reporting related bugs, please contact at saumil.nagariya@gmail.com.
 
 # Screenshots
 1. Inquiry List Table

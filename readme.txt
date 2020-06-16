@@ -45,5 +45,10 @@ For reporting related bugs, please contact at saumil122@gmail.com.
 * CRUD Operations
 * Inquiry Example
 
+1.1
+* Include libraries from the Core
+* Data sanitized, escaped and validated
+* Generic function/class/define/namespace names
+
 == Upgrade Notice ==
 No need to upgrade, you only need to install plugin. This is the initial version of plugin.

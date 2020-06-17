@@ -297,7 +297,7 @@ if (!function_exists('sil_page_handler')) {
             <?php echo $message; ?>
 
             <form id="inquiries-table" method="GET">
-                <input type="hidden" name="page" value="<?php echo sanitize_text_field($_REQUEST['page']) ?>" />
+                <input type="hidden" name="page" value="<?php echo esc_html($_REQUEST['page']) ?>" />
                 <?php $table->display() ?>
             </form>
 
